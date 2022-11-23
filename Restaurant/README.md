@@ -1,3 +1,3 @@
 # Restaurant
  Serbonsu-cooks
- This website is almost done andi need some finishing touches
+ This website is almost done and I need some finishing touches
